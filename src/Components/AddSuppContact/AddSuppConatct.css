@@ -1,0 +1,17 @@
+.container{
+    margin:2% 37%;
+    background-color: rgb(203, 221, 220);
+    width: 400px;
+    border-radius: 4%;
+    
+}
+.Labelalign{
+    align-content: flex-start;
+ 
+     text-align: left;
+}
+
+.btnEdit{
+    width: 60px;
+    margin: 3%;
+}

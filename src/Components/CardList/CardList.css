@@ -1,0 +1,25 @@
+.btn-icon{
+    width: 50px;
+    margin: 5px;
+}
+
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #BBBBBB;
+  border: 5px solid #747070;
+  border-radius: 30px;
+  width: 210px;
+  height: 380px;
+  margin: 30px;
+  padding: 20px;
+}
+.sousCard{
+  background-color: #E2D5D5;
+}
+.avatar{
+    width: 80px;
+    margin: 15px 60px;
+}

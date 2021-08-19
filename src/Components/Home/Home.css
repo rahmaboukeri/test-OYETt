@@ -1,0 +1,7 @@
+.app-button{
+    margin : 3%;
+    background-color: rgb(107, 167, 164);
+    border: rgb(51, 92, 90);
+    border-radius: 4px;
+    border-style: solid;
+}

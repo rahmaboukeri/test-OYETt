@@ -1,0 +1,7 @@
+export const GET_TITRE_LOAD ="GET_TITRE_LOAD"
+export const GET_TITRE_SUCCESS ="GET_TITRE_SUCCESS"
+export const GET_TITRE_FAIL ="GET_TITRE_FAIL"
+export const GET_ONE_TITRE ="GET_ONE_TITRE"
+
+export const TOGGLE_TRUE ="TOGGLE_TRUE"
+export const TOGGLE_FALSE ="TOGGLE_FALSE"
